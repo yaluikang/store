@@ -1,0 +1,30 @@
+#store {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.product {
+    height: 166px;
+    width: 900px;
+    margin: 50px;
+    display: flex;
+    border: 1px solid black;
+}
+.img {
+    min-width: 250px;
+}
+.text{
+    margin-top: 10px;
+    min-width: 500px;
+}
+.price_and_likes {
+    margin-top: 10px;
+    text-align: center;
+    min-width: 150px;
+}
+.inc_button {
+    margin-top: 70px;
+}
+.likes {
+    margin-top: 10px;
+}
